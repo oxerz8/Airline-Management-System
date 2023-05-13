@@ -28,5 +28,7 @@ Following are the Entity sets and their corrosponding attributes and relationshi
 * Flight(flight_num, arrival, departure)**
 
 ** Weak Attributes
+
 *** Entity-set relationships
+
 **** IS-A relationships
